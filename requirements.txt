@@ -1,0 +1,7 @@
+numpy
+nibabel
+matplotlib
+torch
+torchvision
+scikit-learn
+adabound
