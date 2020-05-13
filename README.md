@@ -1,5 +1,5 @@
 # adai
-An Alzheimer's Disease AI.
+An AI for pre-diagnosing Alzheimer's Disease.
 
 ![System](./media/overview.gif)
 
