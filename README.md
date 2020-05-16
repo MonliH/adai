@@ -11,6 +11,9 @@ Follow the instructions on the [pytorch website](https://pytorch.org/get-started
 pip install -r requirements.txt
 ```
 
+## Getting Data
+You can request access to the data [here](https://www.oasis-brains.org/). Make sure you request the OASIS 3 brains dataset. Download the data in the [plain folder format](https://github.com/NrgXnat/oasis-scripts#download_scansdownload_oasis_scanssh). Once you get the Pib PET/MRI data, put it anywhere you like (ideally in the same folder as this repo) and change the `DATA_DIR` variable in the notebook you wish to use. Also, make sure to get the diagnosis of the patients by clicking on the "spreadsheet" value on data explorer.
+
 ## Notebooks
 | Notebook Name                                                                                | Description                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
